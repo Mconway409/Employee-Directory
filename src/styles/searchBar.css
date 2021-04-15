@@ -8,10 +8,10 @@
 .btn-primary {
     color: white;
     background-color:black;
-    border: none;
+    border: solid;
 }
 
 .btn-primary:hover {
     color:  #5D5D5D;
-    background-color: #dee2e6;
+    background-color: whitee
   }
